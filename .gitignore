@@ -1,0 +1,17 @@
+# Executable files
+build/
+*.out
+*.exe
+
+# Object files
+*.o
+obj/
+
+# dSYM (debug info on macOS)
+*.dSYM/
+
+# VS Code settings (optional)
+.vscode/
+
+# Temporary files
+*~
